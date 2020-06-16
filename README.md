@@ -7,3 +7,5 @@ The Canny edge detector is an edge detection operator that uses a multi-stage al
   <li> Non-maximum suppression </li>
   <li> Hystersis Thresholding </li> 
   </ul> </p>
+<p> <h3> Result: </h3> </p>
+<img src="https://github.com/geekquad/Canny-Edge-Detection/blob/master/canny.png">
